@@ -1,0 +1,2 @@
+# ConcatDelphi
+Concatenador Delphi
